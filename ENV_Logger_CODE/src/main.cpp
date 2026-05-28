@@ -1,3 +1,11 @@
+/*
+  Copyright (C) 2026 Soham Sham Thakur
+
+  This program is free software: you can redistribute it
+  and/or modify it under the terms of the GNU GPL v3 License.
+*/
+
+
 #include <Adafruit_Sensor.h>      // Base sensor library
 #include <DHT.h>                  // DHT temperature & humidity sensor
 #include <Wire.h>                 // I2C communication (RTC + BMP)
